@@ -11,6 +11,3 @@ sys.path.append('..')
 from common.func import *
 
 print(myfunc(5,3))
-
-
-
